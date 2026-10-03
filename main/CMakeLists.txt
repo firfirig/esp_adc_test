@@ -1,0 +1,1 @@
+idf_component_register(SRCS "main.c" "adc_calibration.c" INCLUDE_DIRS ".")
